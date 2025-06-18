@@ -5,3 +5,5 @@ obj
 .vsconfig
 *.csproj
 消消乐.sln
+.vs
+Temp
